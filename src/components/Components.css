@@ -1,0 +1,58 @@
+
+.card {
+  width: 18rem;
+}
+
+.card-img-top {
+  width: 18rem;
+  height: 12rem ;
+}
+
+.card-body {
+  display: grid;
+  place-items: center;
+}
+
+.footer {
+margin-top: 100px; 
+background-color: #4b50d0; 
+color: #c4e464;
+bottom: 0;
+}
+
+.social-icons a i {
+  color:#c4e464;
+}
+
+.image-brand {
+  font-size: 50px;
+  width: 100px; 
+  height: 100px; 
+  border-radius: 100%;
+}
+
+.nav-link {
+  color:#c4e464;
+}
+
+.navbar-nav {
+  font-size: 27px; 
+  font-family: 'Grape Nuts', cursive; 
+  text-shadow: 2px 2px #8f88aa; 
+  gap: 40px;
+}
+
+.image-slide {
+height: 100vh; 
+object-fit: cover;
+}
+
+#carouselExampleAutoplaying {
+margin-bottom: 10px;
+
+}
+
+.carousel-inner {
+font-family: 'Grape Nuts', cursive;
+}
+

@@ -1,0 +1,149 @@
+
+/* menu page */
+
+.title-menu {
+  font-family: 'Grape Nuts', cursive; 
+  font-size: 30vh ; 
+  text-shadow: 3px 3px #c4e464; 
+  color: #4b50d0; 
+  }
+
+.arrange-menu {
+  font-family: 'Grape Nuts', 'cursive'; 
+ 
+}
+
+/* service page */
+
+.title-services {
+  font-family: 'Grape Nuts', cursive; 
+  font-size: 30vh ; 
+  text-shadow: 3px 3px #c4e464; 
+  color: #4b50d0; 
+}
+
+.service-center {
+  margin-top: 100px; 
+  margin-bottom: 100px;
+  }
+
+.card i {
+  font-size: 100px;
+  }
+    
+/* abaout page */
+
+.title-about{
+  font-family: 'Grape Nuts', cursive; 
+  font-size: 30vh ; 
+  text-shadow: 3px 3px #c4e464; 
+  color: #4b50d0; 
+  }
+
+  .container-intro {
+    margin-top: 100px; margin-bottom: 100px;
+  }
+
+  .container-intro h1 {
+  font-family: 'Grape Nuts', cursive; 
+  text-shadow: 3px 3px #c4e464; 
+  color: #4b50d0;
+  }
+
+  .image1 {
+    width: 300px; 
+    margin: 5px; 
+    margin-top: -20px; 
+    margin-right: -30px; 
+    border-radius: 10px;
+  }
+  
+  .image2 {
+    width: 300px; 
+    margin: 5px; 
+    margin-bottom: -20px; 
+    border-radius: 10px;
+  }
+
+/* home page */
+
+ 
+
+  .scrolled {
+    background-color: #4b50d0;
+  }
+
+  .title-topSelling {
+    font-family: 'Grape Nuts', cursive; 
+    text-shadow: 3px 3px #c4e464; 
+    color: #4b50d0;
+  }
+
+  .menu-home {
+    margin-top: 100px; 
+    margin-bottom: 100px;
+    }
+
+  .container-menu-home {
+  font-family: 'Grape Nuts', cursive; 
+  }
+
+  .card {
+    width: 18rem;
+    }
+
+  .container-OurService {
+  margin-top: 100px; 
+  margin-bottom: 100px;
+  }
+
+  .title-OurService {
+   font-family: 'Grape Nuts', cursive; 
+   text-shadow: 3px 3px #c4e464; 
+   color:#4b50d0;
+  }
+
+  .container-ServiceItem {
+   font-family: 'Grape Nuts', cursive;
+  }
+
+  .service-card {
+    width: 13em; 
+    box-shadow: 2px;
+  }
+
+  .service-card bi {
+    font-size: 100px
+  }
+
+  .about-contents {
+    font-family: 'Grape Nuts', cursive;
+  }
+
+  .par2 {
+    margin-top: 200px; 
+    margin-right:30px;  
+    margin-bottom: 200px
+  }
+
+  .par3 {
+    margin-right:30px;  
+    margin-bottom: 200px
+  }
+  
+  .intro1{
+    width: 65vw; 
+    height: 75vh; 
+    margin-top: 200px; 
+    margin-right:30px;  
+    margin-bottom: 50px;
+  }
+
+  .intro2{
+    width: 60vw; 
+    margin-top: 150px; 
+    margin-right:30px;  
+    margin-bottom: 50px
+  }
+
+
